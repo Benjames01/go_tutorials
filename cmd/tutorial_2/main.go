@@ -32,10 +32,10 @@ func main() {
 	fmt.Println(myRune)
 
 	var myBoolean bool = false
-	fmt.Print(myBoolean)
+	fmt.Println(myBoolean)
 
 	var intNum3 int
-	fmt.Print(intNum3)
+	fmt.Println(intNum3)
 
 	myVar := "text"
 	fmt.Println(myVar)
